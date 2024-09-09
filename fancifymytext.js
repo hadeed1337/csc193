@@ -1,3 +1,4 @@
+// Assignment 5 JS file
 // Makes the text bigger when "Bigger!" button is clicked
 function makeBigger() {
     alert("Hello, world!");
